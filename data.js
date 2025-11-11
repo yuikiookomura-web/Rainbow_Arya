@@ -1,5 +1,5 @@
 // --- data.js: Simulación de Base de Datos y Utilidades Centralizadas ---
-
+// CAMBIOS DE REPOSITORIO
 // =================================================================
 // 0. USUARIOS Y ROLES DEL SISTEMA (LOGIN FIX)
 // =================================================================
